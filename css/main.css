@@ -62,10 +62,14 @@ fieldset
 	border: none;
 }
 
-#navbar a:link, a:visited
+#navbar a:link
+{
+	text-decoration: none;
+}
+
+a:link, a:visited
 {	
 	color: #3366FF;
-	text-decoration: none;
 }
 
 a#webname
@@ -92,7 +96,7 @@ a:hover
 	width: 200px;
 }
 
-input#username, input#password
+input#username, input#password, input#email
 {
 	width: 200px;
 	border: 1px solid;

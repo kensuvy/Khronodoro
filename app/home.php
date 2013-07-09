@@ -1,7 +1,7 @@
 <html>
 	<head>
 		<title>Khronodoro</title>
-		<link rel="stylesheet" type="text/css" href="css/main.css">
+		<link rel="stylesheet" type="text/css" href="../css/main.css">
 	</head>
 	<body>
 		<header id="banner">
@@ -10,8 +10,8 @@
 		<p/>
 		<div id="navbar">
 			<ul>
-					<li><a href="app/register.php">Register</a></li>
-					<li><a href="app/login.php">Login</a></li>
+					<li><a href="register.php">Bucket List</a></li>
+					<li><a href="logout.php">Logout</a></li>
 			</ul>
 		</div>
 		<p/>
