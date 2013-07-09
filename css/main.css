@@ -91,15 +91,15 @@ a:hover
 	
 }
 
-.button
-{
-	width: 200px;
-}
 
-input#username, input#password, input#email
+
+input#username, input#password, input#email, input#submit
 {
 	width: 200px;
 	border: 1px solid;
 }
 
-
+.button
+{
+	background-color: #737373;
+}
